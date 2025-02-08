@@ -1,0 +1,6 @@
+```
+Workshop Ideas
+1. Linux Terminal Basics
+2. Shell Scripting
+3. File Management in Linux
+```
